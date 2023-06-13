@@ -12,3 +12,4 @@
  2. Configure CRB kitchen
  3. Unpack the gsi image (can take from here : https://t.me/nippongsi)
  4. start to modify according to your port 
+ 5. then repack
