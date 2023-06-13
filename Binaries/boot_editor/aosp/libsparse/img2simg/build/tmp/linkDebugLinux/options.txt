@@ -1,0 +1,7 @@
+-o
+/home/yu/work/boot/aosp/libsparse/img2simg/build/exe/main/debug/linux/img2simg
+/home/yu/work/boot/aosp/libsparse/img2simg/build/obj/main/debug/linux/1thvvcuq6vl8lb8ton4gl3e71/img2simg.o
+/home/yu/work/boot/aosp/libsparse/sparse/build/lib/main/debug/linux/libsparse.a
+/home/yu/work/boot/aosp/libsparse/base/build/lib/main/debug/linux/libbase.a
+-lz
+-m64

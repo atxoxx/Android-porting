@@ -1,0 +1,4 @@
+See file:///home/yu/work/boot/aosp/libsparse/simg2simg/build/tmp/linkDebugLinux/output.txt for all output for linkDebugLinux.
+linking simg2simg successful.
+
+Finished linkDebugLinux, see full log file:///home/yu/work/boot/aosp/libsparse/simg2simg/build/tmp/linkDebugLinux/output.txt.

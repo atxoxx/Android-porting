@@ -1,0 +1,4 @@
+See file:///home/yu/work/boot/aosp/libsparse/base/build/tmp/createDebugLinux/output.txt for all output for createDebugLinux.
+archiving libbase.a successful.
+
+Finished createDebugLinux, see full log file:///home/yu/work/boot/aosp/libsparse/base/build/tmp/createDebugLinux/output.txt.

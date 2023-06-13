@@ -1,0 +1,66 @@
+
+
+
+
+
+SAMSUNG ROM DISARM by ZonalRipper v6.9.7
+
+Tool for Samsung ROM builders to Disarm common security features
+
+
+
+
+
+
+
+
+DEBLOAT SYSTEM:
+Various App and priv-app debloat
+system/system/app
+
+DEBLOAT PRISM & PRODUCT:
+Various app and priv-app debloat
+system/system/priv-app
+
+DISABLE SCS SEVRVICE:
+Disable SCS in
+prism/etc/init/init.rc
+product/etc/init/init.rc
+
+MOD SYSTEM BUILD.PROP:
+Add ROM information and add Build.prop tweaks
+system/system/build.prop
+
+DISABLE FRP:
+Factory Reset Protection Disable
+/vendor/build.prop
+
+DISABLE ENCRYPTION:
+Disable fstab encryption of data partition
+S10FSTAB= /vendor/etc/fstab.exynos9820
+S20FSTAB= /vendor/etc/fstab.exynos990
+S21FSTAB= /vendor/etc/fstab.exynos2100
+
+DISABLE CASS:
+Disable CASS services
+/vendor/etc/init/cass.rc
+
+PROCA DISABLED:
+Disable PROCA Services
+/vendor/etc/init/pa_daemon_teegris.rc
+
+DISABLE VAULTKEEPER:
+Disable VAULTKEEPER
+/vendor/etc/init/vaultkeeper_common.rc
+
+DISABLE WSM:
+Disable WSM (Galaxy Watch Pairing Fix)
+/vendor/etc/vintf/manifest.xml
+
+SAFETYNET FIX:
+Patching of keystore file to get safetynet fix working
+system/bin/keystore
+
+BLUETOOTH PATCHING:
+Patch the libbluetooth.so file to fix lose of BT pariring on reboot
+system/lib64/libbluetooth.so

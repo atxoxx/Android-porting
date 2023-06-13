@@ -1,0 +1,28 @@
+See file:///home/yu/work/boot/aosp/libsparse/sparse/build/tmp/compileDebugLinuxCpp/output.txt for all output for compileDebugLinuxCpp.
+compiling backed_block.cpp successful.
+
+compiling sparse_err.cpp successful.
+
+compiling sparse_crc32.cpp successful.
+
+compiling sparse.cpp successful.
+
+compiling output_file.cpp successful.
+In file included from /home/yu/work/boot/aosp/libsparse/base/src/main/public/android-base/mapped_file.h:25,
+                 from /home/yu/work/boot/aosp/libsparse/sparse/src/main/cpp/output_file.cpp:38:
+/home/yu/work/boot/aosp/libsparse/base/src/main/public/android-base/unique_fd.h:105:57: warning: ‘clang::reinitializes’ scoped attribute directive ignored [-Wattributes]
+  105 |   [[clang::reinitializes]] void reset(int new_value = -1) { reset(new_value, nullptr); }
+      |                                                         ^
+/home/yu/work/boot/aosp/libsparse/base/src/main/public/android-base/unique_fd.h:283:65: warning: ‘unavailable’ attribute directive ignored [-Wattributes]
+  283 |     __attribute__((__unavailable__("close called on unique_fd")));
+      |                                                                 ^
+/home/yu/work/boot/aosp/libsparse/base/src/main/public/android-base/unique_fd.h:288:97: warning: ‘unavailable’ attribute directive ignored [-Wattributes]
+  288 |                                    "unique_fd, or use android::base::Fdopen to pass ownership")));
+      |                                                                                                 ^
+/home/yu/work/boot/aosp/libsparse/base/src/main/public/android-base/unique_fd.h:293:85: warning: ‘unavailable’ attribute directive ignored [-Wattributes]
+  293 |                     "unique_fd, or use android::base::Fdopendir to pass ownership")));
+      |                                                                                     ^
+
+compiling sparse_read.cpp successful.
+
+Finished compileDebugLinuxCpp, see full log file:///home/yu/work/boot/aosp/libsparse/sparse/build/tmp/compileDebugLinuxCpp/output.txt.

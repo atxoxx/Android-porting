@@ -1,0 +1,4 @@
+See file:///home/yu/work/boot/aosp/libsparse/append2simg/build/tmp/compileDebugLinuxCpp/output.txt for all output for compileDebugLinuxCpp.
+compiling append2simg.cpp successful.
+
+Finished compileDebugLinuxCpp, see full log file:///home/yu/work/boot/aosp/libsparse/append2simg/build/tmp/compileDebugLinuxCpp/output.txt.
