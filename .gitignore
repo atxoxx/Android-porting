@@ -6,3 +6,5 @@ wsl/crb/fsserver
 wsl/crb/rootfs/etc/alternatives/libnssckbi.so.x86_64
 
 wsl/crb/rootfs/etc/crypto-policies/back-ends/bind.config
+
+wsl/
